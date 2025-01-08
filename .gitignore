@@ -1,0 +1,5 @@
+*.zip
+*.tgz
+*.aux.xml
+*.csv
+*.geojson
