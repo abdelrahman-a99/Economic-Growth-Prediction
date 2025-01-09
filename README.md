@@ -59,7 +59,7 @@ The project demonstrates the critical role of digital infrastructure and urban p
 
 ## Team
 - **[Dr. Noha Gamal](https://www.linkedin.com/in/dr-noha-gamaleldin-383ab820/)** (Supervisor)
-- **[Omar Elhossiny](https://www.linkedin.com/in/omar-elhossiny-530553261)**
+- **[Omar Elhossiny](https://www.linkedin.com/in/omar-elhossiny-530553261)** (Team Leader)
 - **[Abdelrahman Ahmed](https://www.linkedin.com/in/abdelrahman-ahmed-9b0828252/)**
 - **[Sherif Ahmed Mahmoud](https://www.linkedin.com/in/sherif-ahmed-1a611b2aa/)**
 - **[Amr Mohamed El-Hassaneen](https://www.linkedin.com/in/amr-mohamed-a5b00924b/)**
