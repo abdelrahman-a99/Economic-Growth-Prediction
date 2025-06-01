@@ -1,5 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Data files
 *.zip
 *.tgz
 *.aux.xml
 *.csv
 *.geojson
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+log/
+
+# Temporary files
+*.tmp
+*.temp
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Project specific folders and files
+2020-01-01_performance_fixed_tiles/
+SVDNB_npp_20200101-20200131_00N060W_vcmcfg_v10_c202002111500.tgz.properties
+SVDNB_npp_20200101-20200131_00N060W_vcmcfg_v10_c202002111500/
+SVDNB_npp_20200201-20200229_00N060W_vcmcfg_v10_c202003021200/
+SVDNB_npp_20200301-20200331_00N060W_vcmcfg_v10_c202007042300/
+geoBoundaries-BRA-ADM1-all/
+
+# Keep these files
+!*.ipynb
+!*.png
