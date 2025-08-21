@@ -65,10 +65,6 @@ Economic-Growth-Prediction/
 - **Pearson Correlation**: 
   - Light intensity vs. download speed: **0.41** (p < 0.05)
   - Statistically significant positive relationship
-- **Linear Regression**: 
-  - Model p-value: **0.025**
-  - Adjusted R-squared: **0.357**
-  - Strong model fit for economic activity prediction
 
 ### Economic Insights
 1. **Positive Correlation**: Regions with higher urban activity (nighttime lights) tend to have better digital infrastructure
